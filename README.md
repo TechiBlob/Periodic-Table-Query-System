@@ -28,6 +28,26 @@ The file should run successfully.
 
 #
 
+###### .JAR - From Command Line (Terminal, Command Prompt, Powershell, etc.)
+###### -----------------------------------------------------------------------
+
+Check if Java is installed by opening Terminal and:
+
+`java -version`
+
+If Java is not installed, install OpenJDK 15/OpenJRE 15 or Oracle Java 15 from their respective sources.
+
+Once Java is installed, assure that the startup script is in the same directory as the .JAR file.
+
+Run the file by
+
+`Linux/MacOS: Make sure the .sh file is setup to be executeable.
+Windows: Make sure the .bat file is setup to be executeable.`
+
+The file should run successfully.
+
+#
+
 ###### .CLASS or .JAVA - Compiling Source Code or Class File
 ###### -----------------------------------------------------------------------
 
