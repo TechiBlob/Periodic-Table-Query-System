@@ -28,7 +28,7 @@ The file should run successfully.
 
 #
 
-###### .JAR - From Command Line (Terminal, Command Prompt, Powershell, etc.)
+###### .JAR - From Startup Script (.sh/.bat)
 ###### -----------------------------------------------------------------------
 
 Check if Java is installed by opening Terminal and:
