@@ -5,7 +5,7 @@ Utilizes internalized data to lookup periodic elements along with associated inf
 
 Retrive the source code or .JAR files from:
 
-[Releases](releases)
+[Releases](https://github.com/TechiBlob/Periodic-Table-Query-System/releases/)
 ######
 ###### .JAR - From Command Line (Terminal, Command Prompt, Powershell, etc.)
 ###### -----------------------------------------------------------------------
