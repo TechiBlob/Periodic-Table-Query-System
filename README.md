@@ -25,9 +25,6 @@ Run the file using:
 The file should run successfully.
 
 #
-#
-#
-#
 
 ###### .CLASS or .JAVA - Compiling Source Code or Class File
 ###### -----------------------------------------------------------------------
