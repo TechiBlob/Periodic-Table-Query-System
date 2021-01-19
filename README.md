@@ -42,6 +42,7 @@ Once Java is installed, assure that the startup script is in the same directory 
 Run the file by
 
 `Linux/MacOS: Make sure the .sh file is setup to be executeable.`
+
 `Windows: Make sure the .bat file is setup to be executeable.`
 
 The file should run successfully.
