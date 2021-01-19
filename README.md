@@ -22,7 +22,7 @@ Once Java is installed, CD to the Directory where the file is downloaded:
 
 Run the file using:
 
-`java -jar PerioidQuerySys.jar`
+`java -jar PerioidQuerySys_ASC.jar`
 
 The file should run successfully.
 
