@@ -3,6 +3,10 @@ Utilizes internalized data to lookup periodic elements along with associated inf
 
 ## Run Instructions
 
+Retrive the source code or .JAR files from:
+
+[Releases](github.com/TechiBlob/Periodic-Table-Query-System/releases/)
+######
 ###### .JAR - From Command Line (Terminal, Command Prompt, Powershell, etc.)
 ###### -----------------------------------------------------------------------
 
