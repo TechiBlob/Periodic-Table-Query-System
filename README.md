@@ -1,6 +1,8 @@
 # Periodic Table Query System
 Utilizes internalized data to lookup periodic elements along with associated information by entering the atomic number or symbol. Includes modules and commands to allow ease of access and more features (DISCLAIMER: SOME FUNCTIONS MAY BE IN BETA AND COMPLETELY INOPERABLE)
 
+## REQUIRES JAVA 15
+
 ## Run Instructions
 
 Retrive the source code or .JAR files from:
@@ -14,7 +16,7 @@ Check if Java is installed by opening Terminal and:
 
 `java -version`
 
-If Java is not installed, install OpenJDK/OpenJRE or Oracle Java from their respective sources.
+If Java is not installed, install OpenJDK 15/OpenJRE 15 or Oracle Java 15 from their respective sources.
 
 Once Java is installed, CD to the Directory where the file is downloaded:
 
