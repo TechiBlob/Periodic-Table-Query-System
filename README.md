@@ -45,6 +45,8 @@ Run the file by
 
 `Windows: Make sure the .bat file is setup to be executeable.`
 
+`Double Click the Script File`
+
 The file should run successfully.
 
 #
